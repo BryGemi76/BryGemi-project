@@ -1,0 +1,1 @@
+memory.add("ai", f"{ai_name} issued {cmd}")
